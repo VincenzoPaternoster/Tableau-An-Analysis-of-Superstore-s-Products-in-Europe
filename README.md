@@ -3,7 +3,7 @@ Create an interactive and dynamic solution to monitor Superstore's business perf
 
 ##### Link to the project on Tableau Public:
 [Click here](https://public.tableau.com/views/AnAnalysisofSuperstoresProductsinEurope/Home?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
+---
 ## 📂 Repository Structure
 ```
 An Analysis of Superstore's Products in Europe/
@@ -14,7 +14,7 @@ An Analysis of Superstore's Products in Europe/
       |──README.md
 │── README.md
 ```
-
+---
 ## 🎯 Project objectives
 
 1. Develop an interactive dashboard that allows business to monitor:
