@@ -33,6 +33,7 @@ An Analysis of Superstore's Products in Europe/
 
 ## 🗂️ Dataset
 **Source:** Superstore dataset
+
 **Period examined:** From 2019 to 2022
 
 ---
