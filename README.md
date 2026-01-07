@@ -18,19 +18,16 @@ An Analysis of Superstore's Products in Europe/
 ## 🎯 Project objectives
 
 1. Develop an interactive dashboard that allows business to monitor:
-  a. Sales trends over time
 
-  b. Profit by country
-  
-  c. Quantity of products shipped by shipping class
+      - Sales trends over time
+      - Profit by country
+      - Quantity of products shipped by shipping class
 
 3. Create a Tableau story that shows:
 
-  a. Products to allocate more budget to
-  
-  b. Products to allocate less budget to
-  
-  c. Products to eliminate
+      - Products to allocate more budget to
+      - Products to allocate less budget to
+      - Products to eliminate
 
 ---
 
